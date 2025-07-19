@@ -71,7 +71,7 @@ The dataset includes the following fields:
 ---
 
 ## 👨‍💻 Author
-**[Your Name]**  
+**Nikhil**  
 Aspiring Data Analyst | Excel | Data Cleaning | Visualization
 
 ---
